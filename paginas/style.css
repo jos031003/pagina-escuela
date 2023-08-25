@@ -1,0 +1,116 @@
+ body {
+     background-image: url(../imagenes/fondo1.jpg);
+     background-position: center center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+
+ }
+
+ header {
+     background: -webkit-linear-gradient(to right, hsla(0, 93%, 48%, 0.671), hsla(236, 97%, 50%, 0.527), hsla(64, 93%, 48%, 0.788));
+     background: linear-gradient(to right, hsla(0, 93%, 48%, 0.671), hsla(236, 97%, 50%, 0.5), hsla(64, 93%, 48%, 0.788));
+     color: #0d1774;
+     padding: 20px;
+     border-radius: 80px;
+ }
+
+ h1 {
+     margin: 20px;
+     font-size: 80px;
+ }
+
+ nav h1 {
+    font-size: 100px;
+    color: rgb(15, 30, 110);
+ }
+
+ h2 {
+     color: #2607f5;
+ }
+
+ h3 {
+    
+    display: inline-block;
+    background-color: #e1e6ec;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 10px; 
+    color: red;
+    font-size: 30px
+}
+
+ nav ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 10px;
+     
+     }
+
+ a {
+    color: rgb(15, 16, 112);
+    font-size: 25px;
+}
+
+ nav ul li {
+     display: inline-block;
+     margin-right: 10px;
+ }
+
+ nav ul li a {
+     color: #fff;
+     text-decoration: none;
+ }
+
+ main {
+     padding: 20px;
+ }
+
+ p {
+    font-size: 20px;
+ }
+
+ a.button {
+     display: inline-block;
+     background-color: #333;
+     color: #fff;
+     padding: 10px 20px;
+     text-decoration: none;
+     border-radius: 10px;
+ }
+
+ form {
+     position: absolute;
+     top: 50%;
+     left: 60%;
+     transform: translate(-50%, -50%);
+     border: 6pt solid rgb(10, 23, 199);
+     padding: 15px;
+     background: -webkit-linear-gradient(to right, hsla(0, 14%, 99%, 0.671), hsla(0, 14%, 99%, 0.671), hsla(0, 14%, 99%, 0.671));
+     background: linear-gradient(to right, hsla(0, 14%, 99%, 0.671), hsla(0, 14%, 99%, 0.671), hsla(0, 14%, 99%, 0.671));
+
+    font-size: 130%;
+ }
+
+ 
+
+ center a  {
+    display: inline-block;
+    background-color: #333;
+    color: #f1f1f7;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+div h4 {
+    background-color: #141447;
+    color: #fff;
+    padding: 30px 30px;
+    text-decoration: none;
+    border-radius: 10px; 
+    color: rgb(246, 248, 248);
+    font-size: 30px
+    
+}
